@@ -1,7 +1,7 @@
  # My Database Assignment
  ## Introduction
      I am Manish chandra,
-     # I am intrested in Boxing.
+     # I am interested in Boxing.
      # I am currently learning Database.
      # I am looking to collaborate knowledge on github and visual studio.
      # I had a dream to make a wellknowed, helpfull application and it would be diminished reality to deal with specific circumstances.
